@@ -14,7 +14,7 @@ package com.sh.git;
 public class Main {
 	
 	public void master() {
-		
+		System.out.println("master!!!!!");
 	}
 
 	public static void main(String[] args) {
